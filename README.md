@@ -1,6 +1,14 @@
 # 🍸 Extroverts — Signup Wizard Replication
 
-High-fidelity responsive web application replicating the Signup Wizard of the **Extroverts - Party•Hangout•Vibe** Android Application (`com.pro.nubpack`). Built with React, Vite, CSS design system, and Google Fonts Poppins.
+High-fidelity responsive web application replicating the Signup Wizard of the **Extroverts - Party•Hangout•Vibe** Android Application (`com.pro.nubpack`). Built with React 19, Vite, CSS design system, and Google Fonts Poppins.
+
+---
+
+## 🔗 Quick Links & Live Submission
+
+- 🌐 **Live Deployed Web Application**: [https://extroverts-signup-wizard-9ndtys3fo-akash-rajs-projects-d00afc42.vercel.app/](https://extroverts-signup-wizard-9ndtys3fo-akash-rajs-projects-d00afc42.vercel.app/)
+- 🎥 **Screen Recording Video Explanation**: [Google Drive Video Walkthrough](https://drive.google.com/file/d/1NS8IZlv-rwds5QhdMF47TX8s_kM_hixK/view?usp=sharing)
+- 📁 **GitHub Source Repository**: [https://github.com/Akash-raj-INT/Extroverts-Signup-Wizard.git](https://github.com/Akash-raj-INT/Extroverts-Signup-Wizard.git)
 
 ---
 
@@ -44,10 +52,12 @@ High-fidelity responsive web application replicating the Signup Wizard of the **
 ## 🛠️ Tech Stack
 
 - **Framework**: React 19 + Vite
-- **Styling**: Vanilla CSS (CSS Variables, Glassmorphism, Neon Glow Effects, Micro-animations)
+- **Styling**: Plain CSS (CSS Custom Variables, Glassmorphism, Neon Glow Effects, Micro-animations)
+- **State Management**: React Component State (`useState`)
 - **Typography**: Google Fonts (Poppins)
 - **Icons**: Lucide React
 - **Animations**: Canvas Confetti
+- **Deployment**: Vercel
 
 ---
 
@@ -57,7 +67,7 @@ High-fidelity responsive web application replicating the Signup Wizard of the **
 - Node.js (v18 or higher)
 - npm or yarn
 
-### Installation & Local Setup
+### Local Setup & Development
 
 1. **Clone the repository**:
    ```bash
@@ -83,7 +93,7 @@ High-fidelity responsive web application replicating the Signup Wizard of the **
 
 ---
 
-## 🧪 Demo Test Hints
+## 🧪 Demo Testing Hints
 
 - **OTP Step**: Click the `⚡ Fill Demo (123456)` pill or enter `123456`.
 - **Under 18 Check**: Select DOB year `2010` to view the Under 18 restriction banner, then change to `2002` to proceed.
