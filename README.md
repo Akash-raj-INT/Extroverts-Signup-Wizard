@@ -8,7 +8,6 @@ High-fidelity responsive web application replicating the Signup Wizard of the **
 
 - 🌐 **Live Deployed Web Application**: [https://extroverts-signup-wizard-9ndtys3fo-akash-rajs-projects-d00afc42.vercel.app/](https://extroverts-signup-wizard-9ndtys3fo-akash-rajs-projects-d00afc42.vercel.app/)
 - 🎥 **Screen Recording Video Explanation**: [Google Drive Video Walkthrough](https://drive.google.com/file/d/1NS8IZlv-rwds5QhdMF47TX8s_kM_hixK/view?usp=sharing)
-- 📁 **GitHub Source Repository**: [https://github.com/Akash-raj-INT/Extroverts-Signup-Wizard.git](https://github.com/Akash-raj-INT/Extroverts-Signup-Wizard.git)
 
 ---
 
